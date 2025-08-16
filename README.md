@@ -1,4 +1,4 @@
-Brain Tumor Detection CNN Model
+Brain Tumor Detection Transfer Learning Model
 
 This model was trained using a Convolutional Neural Network (CNN) to classify brain MRI images as either having a tumor or not. It uses Keras with TensorFlow backend and was trained on the publicly available Brain Tumor MRI Dataset from Kaggle. Dataset
 
