@@ -11,7 +11,7 @@ The data is balanced and preprocessed into two folders: yes/ and no/.
 Train Accuracy: ~98% Validation Accuracy: ~96%
 
 🧠 Model Architecture
-Type: CNN
+Type: CNN Transfer Learning
 Framework: Keras (TensorFlow backend)
 Input shape: (150, 150, 3)
 Final Activation: sigmoid
